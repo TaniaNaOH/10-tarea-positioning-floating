@@ -1,0 +1,9 @@
+#box_1 {
+	position: absolute;
+	top: 100;
+	left: 100;
+	width: 500px;
+	height: 500px;
+	background: #FF0000;}
+.purple { background: #800080; position: absolute; top: 25%; left: 25%; width: 250px; height: 250px; }
+.yellow { background: #FFFF00; position: absolute; top: 0%; left: 0%; width: 125px; height: 125px; }
