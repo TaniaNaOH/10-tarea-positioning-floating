@@ -1,0 +1,28 @@
+body {
+  background-color: pink;
+}
+
+header {
+background-color: #33C0FF;
+height: 70px;
+width: 100%;
+}
+
+li {
+  display: inline;
+  list-style: none;
+  padding: 10px 30px
+}
+
+li:hover {
+background-color:pink;
+color:white;
+}
+
+#first_item {
+  font-family: "roboto", sans-seriff;
+}
+
+#second_item {
+  font-family: "arvo", seriff;
+}
